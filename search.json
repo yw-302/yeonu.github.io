@@ -4,6 +4,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "An awesome English major from South Korea!"
+    "text": "Hi,My name is Yeonu Choi! Welcome to my page."
+  },
+  {
+    "objectID": "lm.html",
+    "href": "lm.html",
+    "title": "Language Models",
+    "section": "",
+    "text": "This fall, I have learned about language models.\nFirst, I learned about N-gram models,and later on, I also learned about neural networks.\nwe analyzed texts from Jane austen’s novels."
   }
 ]
