@@ -1,0 +1,17 @@
+project:
+  type: website
+
+website:
+  title: "Yeonu's"
+  navbar:
+    left:
+      - file: index.qmd
+        text: Home
+      - file: about.qmd
+        text: About
+      - file: lm.qmd
+        text: Language models
+
+format:
+  html:
+    theme: cosmo

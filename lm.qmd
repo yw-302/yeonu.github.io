@@ -1,0 +1,10 @@
+---
+title: "Language Models"
+format: html
+---
+
+This fall, I have learned about language models.
+
+First, I learned about N-gram models,and later on, I also learned about neural networks.
+
+we analyzed texts from [Jane austen's](austen.html) novels.
